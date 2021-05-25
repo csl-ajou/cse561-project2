@@ -45,7 +45,7 @@ void cuda_dump_index()
 
 // TODO: YOU NEED TO IMPLEMENT ON CUDA VERSION
 uint64_t runCUDA(int rows, int cols, int gen, 
-                 GameOfLifeGrid* g_GameOfLifeGrid, int display);
+                 GameOfLifeGrid* g_GameOfLifeGrid, int display)
 {
     cudaSetDevice(0); // DO NOT CHANGE THIS LINE 
 
