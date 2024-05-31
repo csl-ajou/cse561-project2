@@ -3,8 +3,8 @@
 /*                                      */
 /*  Game of Life with Pthread and CUDA  */
 /*                                      */
-/*  ECE521 Project #2            */
-/*  @ Korea University                   */
+/*  ECE521 Project #2                   */
+/*  @ Korea University                  */
 /*                                      */
 /*                                      */
 /****************************************/
